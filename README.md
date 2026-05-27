@@ -43,6 +43,12 @@ The platform then generates optimized prompts that can be used with AI tools lik
 
 ---
 
+## Live Demo
+
+https://portfoliopromptgenerator.netlify.app/
+
+---
+
 ## Future Improvements
 
 - Multiple portfolio themes
