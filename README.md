@@ -1,4 +1,4 @@
-# AI Portfolio Prompt Generator
+# Portfolio Prompt Generator
 
 An AI-powered platform that helps users generate professional portfolio website prompts instantly.
 
