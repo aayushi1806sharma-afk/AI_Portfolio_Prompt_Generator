@@ -49,6 +49,19 @@ The platform then generates optimized prompts that can be used with AI tools lik
 
 ---
 
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Form Section
+![Form](screenshots/form.png)
+
+### Generated Prompt
+![Output](screenshots/output.png)
+
+---
+
 ## Future Improvements
 
 - Multiple portfolio themes
