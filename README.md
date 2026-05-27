@@ -54,11 +54,8 @@ The platform then generates optimized prompts that can be used with AI tools lik
 ### Homepage
 ![Homepage](screenshots/homepage.png)
 
-### Form Section
-![Form](screenshots/form.png)
-
 ### Generated Prompt
-![Output](screenshots/output.png)
+![Output](screenshots/form_n_prompt_page.png)
 
 ---
 
