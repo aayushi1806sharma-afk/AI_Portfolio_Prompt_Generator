@@ -45,7 +45,7 @@ The platform then generates optimized prompts that can be used with AI tools lik
 
 ## Live Demo
 
-https://portfoliopromptgenerator.netlify.app/
+[https://portfoliopromptgenerator.netlify.app/](https://portfoliopromptgenerator.netlify.app/)
 
 ---
 
