@@ -1,4 +1,5 @@
 Editing this file
+Editing 2nd change in prompting branch
 # Portfolio Prompt Generator
 
 An AI-powered platform that helps users generate professional portfolio website prompts instantly.
